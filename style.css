@@ -1,12 +1,12 @@
 body{
   margin: 1;
   padding: 0;
-  background: url(https://e-cdn-images.dzcdn.net/images/cover/dd898f5eb50a96d21fd8a15ef805213a/264x264-000000-80-0-0.jpg) no-repeat;
+  background: url(https://i.pinimg.com/564x/49/ee/0f/49ee0f4a99d88efe1782c004387d4629.jpg) no-repeat;
   background-size: cover;
 }
 .box{
   width: 450px;
-  background: rgba(4, 59, 92, 0.4);
+  background: rgba(0, 0, 0, 0.4);
   padding: 40px;
   text-align: center;
   margin: auto;
